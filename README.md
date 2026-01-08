@@ -5,7 +5,6 @@ Welcome to my professional portfolio. This site showcases my work as a Computer 
 ## 🚀 Projects Highlights
 
 - **Ai Fighter Matchup**: A dynamic data visualization dashboard built with React and FastAPI to analyze athlete performance metrics using Google's Gemini AI.
-- **Baseball Performance Dashboard**: A comprehensive data tool for tracking athlete KPIs and automating performance reporting.
 
 ## 🛠 Technical Stack
 
