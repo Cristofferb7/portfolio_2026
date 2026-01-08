@@ -1,6 +1,11 @@
 # Cristoffer Bohorquez | Full-Stack Developer Portfolio
 
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](https://cristoffer-bohorquez-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristoffer-bohorquez/)
+
 Welcome to my professional portfolio. This site showcases my work as a Computer Science student at UCF and a Full-Stack Developer specializing in the MERN stack.
+
+**🔗 Live Website:** [cristoffer-bohorquez-portfolio.netlify.app](https://cristoffer-bohorquez-portfolio.netlify.app/)
 
 ## 🚀 Projects Highlights
 
@@ -24,13 +29,11 @@ This project was built using **Astro** for high-performance static site generati
 
 ### 🧞 Commands
 
-All commands are run from the root of the project:
-
-| Command           | Action                                       |
-|:----------------  |:-------------------------------------------- |
-| `npm install`     | Installs dependencies                        |
-| `npm run dev`     | Starts local dev server at `localhost:4321`  |
-| `npm run build`   | Build your production site to `./dist/`      |
+| Command | Action |
+|:--- |:--- |
+| `npm install` | Installs dependencies |
+| `npm run dev` | Starts local dev server at `localhost:4321` |
+| `npm run build` | Build your production site to `./dist/` |
 | `npm run preview` | Preview your build locally, before deploying |
 
 ## 📄 License
