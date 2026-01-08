@@ -33,7 +33,8 @@ const Navbar = () => (
       </a>
 
       <NavMenu>
-        <NavMenuItem href="/posts/">Projects</NavMenuItem>
+        <NavMenuItem href="/#Projects">Projects</NavMenuItem>
+        <NavMenuItem href="/resume/">Resume</NavMenuItem>
         <NavMenuItem href="https://github.com/Cristofferb7">GitHub</NavMenuItem>
         <NavMenuItem href="https://www.linkedin.com/in/cristoffer-bohorquez/">
           Linkedin
