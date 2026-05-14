@@ -18,7 +18,7 @@ const ProjectList = () => (
       <div className="flex flex-col items-center gap-x-8 rounded-md bg-slate-800 p-3 md:flex-row">
         <div className="shrink-0">
           <a href="https://github.com/Cristofferb7/Whos-That-Pokemonv2">
-            <div className="flex h-56 w-56 items-center justify-center rounded-lg bg-red-950 p-4 hover:translate-y-1">
+            <div className="flex h-36 w-36 items-center justify-center rounded-lg bg-red-950 p-3 hover:translate-y-1">
               <img
                 src="/assets/images/pokedex-ai-logo.svg"
                 alt="Who's That Pokémon Preview"
