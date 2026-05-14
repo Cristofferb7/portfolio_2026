@@ -1,0 +1,8 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="80" r="40" fill="none" stroke="#E24B4A" stroke-width="3"/>
+  <path d="M60 80 L140 80" stroke="#E24B4A" stroke-width="3"/>
+  <circle cx="100" cy="80" r="12" fill="#E24B4A"/>
+  <path d="M60 80 Q60 40, 100 40 Q140 40, 140 80" fill="#E24B4A" fill-opacity="0.12"/>
+  <text x="100" y="155" text-anchor="middle" font-size="24" font-weight="500" fill="#E24B4A" font-family="system-ui, -apple-system, sans-serif">PokeDex</text>
+  <text x="100" y="180" text-anchor="middle" font-size="20" font-weight="500" fill="#1a1a1a" font-family="system-ui, -apple-system, sans-serif">AI</text>
+</svg>

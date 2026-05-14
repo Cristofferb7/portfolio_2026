@@ -1,0 +1,9 @@
+<svg width="400" height="120" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="60" cy="60" r="30" fill="none" stroke="#E24B4A" stroke-width="2.5"/>
+  <path d="M30 60 L90 60" stroke="#E24B4A" stroke-width="2.5"/>
+  <circle cx="60" cy="60" r="9" fill="#E24B4A"/>
+  <path d="M30 60 Q30 30, 60 30 Q90 30, 90 60" fill="#E24B4A" fill-opacity="0.12"/>
+  <text x="110" y="55" font-size="28" font-weight="500" fill="#E24B4A" font-family="system-ui, -apple-system, sans-serif">PokeDex</text>
+  <text x="245" y="55" font-size="28" font-weight="500" fill="#1a1a1a" font-family="system-ui, -apple-system, sans-serif">AI</text>
+  <text x="110" y="80" font-size="13" letter-spacing="0.5" fill="#777777" font-family="system-ui, -apple-system, sans-serif">Identify any Pokemon</text>
+</svg>

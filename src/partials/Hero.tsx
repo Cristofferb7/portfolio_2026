@@ -33,6 +33,7 @@ const Hero = () => (
           loading="lazy"
         />
       }
+      socialButtons={<></>}
     />
   </Section>
 );
