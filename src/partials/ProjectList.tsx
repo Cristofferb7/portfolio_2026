@@ -15,6 +15,25 @@ const ProjectList = () => (
     }
   >
     <div className="flex flex-col gap-6">
+      <Project
+        name="MeetMatch"
+        description="A friend-matching and event discovery mobile app that connects users to nearby events based on their interests and location, while also matching them with others planning to attend the same events. Built by a team of five for Project Launch, a semester-long development competition hosted by Knight Hacks at UCF."
+        link="https://github.com/schneidine/meetmatch"
+        img={{
+          src: '/assets/images/meetmatch-logo.png',
+          alt: 'MeetMatch Preview',
+        }}
+        category={
+          <>
+            <Tags color={ColorTags.GREEN}>Django</Tags>
+            <Tags color={ColorTags.EMERALD}>Django REST</Tags>
+            <Tags color={ColorTags.SKY}>PostgreSQL</Tags>
+            <Tags color={ColorTags.TEAL}>PostGIS</Tags>
+            <Tags color={ColorTags.CYAN}>React Native</Tags>
+            <Tags color={ColorTags.SLATE}>Expo</Tags>
+          </>
+        }
+      />
       <div className="flex flex-col items-center gap-x-8 rounded-md bg-slate-800 p-3 md:flex-row">
         <div className="shrink-0">
           <a href="https://github.com/Cristofferb7/Whos-That-Pokemonv2">
